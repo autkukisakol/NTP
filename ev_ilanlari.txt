@@ -1,0 +1,8 @@
+kiralık Ev
+Adres: Elvan mah.
+Oda Sayısı: 4
+Kira: 16000
+Kat: 5
+Alan: 120
+Depozito: 100
+
